@@ -15,6 +15,7 @@ dependencies:
   provider: ^6.1.2
   font_awesome_flutter: ^10.8.0
   just_audio: ^0.9.42
+  google_fonts: ^6.2.1
 
 dev_dependencies:
   flutter_test:
